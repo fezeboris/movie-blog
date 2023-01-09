@@ -1,0 +1,9 @@
+{
+    "director":"Realisateur",
+    "summary":"Resume",
+    "data":"Detail du Film",
+    "running":"Duree du FIlm",
+    "budget":"Budget",
+    "revenue":"Revenu",
+    "actors":"Acteurs"
+}

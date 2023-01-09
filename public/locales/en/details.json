@@ -1,0 +1,9 @@
+{
+    "director":"Director",
+    "summary":"Summary",
+    "data":"Movie data",
+    "running":"Running Time",
+    "budget":"Budget",
+    "revenue":"Revenue",
+    "actors":"Actors"
+}
